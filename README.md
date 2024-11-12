@@ -5,7 +5,7 @@ Only supports 4 core github codespaces, 16GB RAM, 32GB Storage. change github co
 
 If you use 2 core it will be very laggy
 
-usage :
+# usage :
 
 sudo su
 
