@@ -1,5 +1,5 @@
 # win2022-codespaces
-# Note
+
 Only supports 4 core github codespaces, 16GB RAM, 32GB Storage. change github codespaces in settings
 ![note](https://github.com/user-attachments/assets/9c8f9249-e041-4ec1-bace-41ad38cadb40)
 
