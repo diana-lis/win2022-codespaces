@@ -1,4 +1,9 @@
 # win2022-codespaces
+# Note
+Only supports 4 core github code space, 16GB RAM, 32GB Storage. change github codespace in settings
+![note](https://github.com/user-attachments/assets/f43743fb-b9d9-47ad-b9c2-156856c536e9)
+If you use 2 core it will be very laggy
+
 usage :
 
 sudo su
