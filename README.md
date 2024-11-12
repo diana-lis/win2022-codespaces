@@ -42,4 +42,4 @@ Password : 123456
 # Note
 just for your information, if you stop codespaces which has Windows installed and then want to reopen it and type "python3 main.py" it won't work
 ![unnamed](https://github.com/user-attachments/assets/e661f385-02e2-4714-ba66-348910b4858f)
-use the command: "docker start windows" to restart Windows
+use the command: "docker start windows" to restart the windows service again
