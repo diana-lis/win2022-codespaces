@@ -27,7 +27,7 @@ python3 main.py
 ![Capture5](https://github.com/user-attachments/assets/4e7034de-6186-41bf-800e-9f4e92caf3fb)
 # Enjoy!
 ![Capture6](https://github.com/user-attachments/assets/6124d70e-4530-4fee-88dd-21ff521dec5e)
-If you want to connect it to RDP you can use a service like ngrok with the command: ngrok tcp 3389. or other services that support tcp forwarding. But keep in mind that Ngrok only has a Data Transfer Out bandwidth of 1 GB, so if the quota is exceeded, RDP will automatically be disconnected.
+If you want to connect it to RDP you can use a service like ngrok with the command: ngrok tcp 3389. or other services that support tcp forwarding. But keep in mind that Free Ngrok Service only has a Data Transfer Out bandwidth of 1 GB, so if the quota is exceeded, RDP will automatically be disconnected.
 # RDP USERNAME AND PASSWORD
 Name : Mpragans
 
